@@ -1,20 +1,16 @@
-# SOC
-Project Name - MyBox
-Mentor - Samarth Bansal
-Checkpoint 1 - (1)Setting up Flutter and Android Studio
-               (2)Introduction and Familiarization with Dart
-               (3)Creating a virtual device on the computer
-               (4)Creating a basic Flutter Application in Android Studio and testing it on the virtual device
+# musicapp
 
-Checkpoint 2 - (1)Learning about Scaffold and Widgets
-               (2)Learning about Colours,Fonts,Images and Assets in Flutter
-               (3)Learning about Stateless Widget,Stateful Widget, Hot Reload
-               (4)Learning about Buttons,Icons,Containers and Padding
-               (5)Learning about Rows and Columns
-               
-Checkpoint 3 - (1)Flutter Outline and Shortcuts
-               (2)Custom Classes,Cards,Extracting Widgets,Maps and Routing
-               (3)Widget Lifecycle,Flutter Packages(hhtps,kiwi,audiplayers)
-               
-Checkpoint 4 - (1)Playing audio from internet on Flutter using the audiplayers.
-                
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
